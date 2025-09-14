@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hi, I'm Khadidja Briki
+# 👋 Hi, I'm Khadidja BRIKI
 
 💻 I'm a passionate **Developer** and **Cyber Security Student**.  
 🔐 Interested in securing systems, analyzing threats, and building safe applications.  
